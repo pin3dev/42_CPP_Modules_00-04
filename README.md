@@ -154,9 +154,10 @@ $>make
 |⭐|`CPP02`-`CPP04` | 🇺🇸 | 📄 |[C++ Overloading (Operator and Function)](https://www.tutorialspoint.com/cplusplus/cpp_overloading.htm)|  
 |🤩|`CPP02`-`CPP04` | 🇺🇸 | 📄 |[Types of Operator Overloading in C++](https://www.geeksforgeeks.org/types-of-operator-overloading-in-cpp/?ref=lbp)|  
 |⭐⭐|`CPP02`-`CPP04`| 🇺🇸 | 📄 |[Copy Constructor vs Assignment Operator in C++](https://www.geeksforgeeks.org/copy-constructor-vs-assignment-operator-in-c/?ref=ml_lbp)|  
+|⭐|`CPP03`-`CPP04`| 🇺🇸 | 💭 |[Inheritance in C++](https://www.geeksforgeeks.org/inheritance-in-c/)|  
+|⭐|`CPP03`-`CPP04`| 🇺🇸 | 💭 |[C++ inheritance downcasting](https://stackoverflow.com/questions/11855018/c-inheritance-downcasting)|  
 |⭐⭐|`CPP04`       | 🇺🇸 | 📄 |[Interfaces in C++](https://medium.com/@sumana.dotnettricks/interfaces-in-c-exploring-the-key-concepts-and-implementation-techniques-c1b3b9e0cb7e)|  
 |⭐|`CPP04`       | 🇺🇸 | 📄 |[C++ Program to Create an Interface](https://www.geeksforgeeks.org/cpp-program-to-create-an-interface/)|  
-|⭐|`CPP03`-`CPP04`| 🇺🇸 | 💭 |[C++ inheritance downcasting](https://stackoverflow.com/questions/11855018/c-inheritance-downcasting)|  
 
 
 > ✅ OK | ⭐ Good | ⭐⭐ VeryGood | 🤩 Amazing | 🔖 Bookmarked2Read  
