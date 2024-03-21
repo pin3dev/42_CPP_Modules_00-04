@@ -144,6 +144,8 @@ $>make
 |⭐|`CPP00`         | 🇺🇸 | 💭 | [char* vs std:string](https://stackoverflow.com/questions/15738095/what-is-the-exact-technical-difference-between-const-char-and-const-string)|  
 |🤩|`CPP00`         | 🇺🇸 | 📄 |[char* vs std:string vs char[]](https://www.geeksforgeeks.org/char-vs-stdstring-vs-char-c/)|  
 |✅|`CPP00`         | 🇧🇷 | 📄 |[CHAR * VS STD: STRING VS CHAR [] EM C++](https://acervolima.com/char-vs-std-string-vs-char-em-c/)|  
+|✅|`CPP00`-`CPP04` | 🇺🇸 | 📄 |[Complete OOP Concepts](https://medium.com/@varshithabittu96/complete-oop-concepts-using-c-to-crack-any-interview-with-code-and-real-time-examples-237234559eb2)|  
+|✅|`CPP00`-`CPP04` | 🇺🇸 | 📄 |[OOPs Concepts in C++](https://beginnersbook.com/2017/08/cpp-oops-concepts/)|  
 |✅|`CPP01`         | 🇺🇸 | 📄 |[A Comprehensive Look at C++ Reference](https://www.simplilearn.com/tutorials/cpp-tutorial/cpp-reference)|  
 |⭐|`CPP02`         | 🇺🇸 | 📄 |[Fixed Point and Floating Point Number Representations](https://www.tutorialspoint.com/fixed-point-and-floating-point-number-representations)|  
 |⭐|`CPP02`         | 🇺🇸 | 📄 |[Floating point number representation](https://www.cprogramming.com/tutorial/floating_point/understanding_floating_point_representation.html)|  
@@ -151,6 +153,10 @@ $>make
 |🤩|`CPP02`-`CPP04` | 🇺🇸 | 📄 |[Operator Overloading in C++](https://www.geeksforgeeks.org/operator-overloading-cpp/)|  
 |⭐|`CPP02`-`CPP04` | 🇺🇸 | 📄 |[C++ Overloading (Operator and Function)](https://www.tutorialspoint.com/cplusplus/cpp_overloading.htm)|  
 |🤩|`CPP02`-`CPP04` | 🇺🇸 | 📄 |[Types of Operator Overloading in C++](https://www.geeksforgeeks.org/types-of-operator-overloading-in-cpp/?ref=lbp)|  
+|⭐⭐|`CPP02`-`CPP04`| 🇺🇸 | 📄 |[Copy Constructor vs Assignment Operator in C++](https://www.geeksforgeeks.org/copy-constructor-vs-assignment-operator-in-c/?ref=ml_lbp)|  
+|⭐⭐|`CPP04`       | 🇺🇸 | 📄 |[Interfaces in C++](https://medium.com/@sumana.dotnettricks/interfaces-in-c-exploring-the-key-concepts-and-implementation-techniques-c1b3b9e0cb7e)|  
+|⭐|`CPP04`       | 🇺🇸 | 📄 |[C++ Program to Create an Interface](https://www.geeksforgeeks.org/cpp-program-to-create-an-interface/)|  
+|⭐|`CPP03`-`CPP04`| 🇺🇸 | 💭 |[C++ inheritance downcasting](https://stackoverflow.com/questions/11855018/c-inheritance-downcasting)|  
 
 
 > ✅ OK | ⭐ Good | ⭐⭐ VeryGood | 🤩 Amazing | 🔖 Bookmarked2Read  
