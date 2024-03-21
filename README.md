@@ -1,7 +1,5 @@
 # CPP-Modules_00-04 `100/100`
 
-
-
 ## Table of Contents
 - [Project Overview](#overview)
 - [Modules Guidelines](#guidelines)
@@ -17,6 +15,8 @@ The `cpp_modules_00-04` projects revolves around mastering advanced C++ concepts
 - Simple and multiple inheritance
 - Polymorphism
 - Interfaces
+- Fixed Point and Floating Point Number Representations
+- Overload Operators
 
 ## Guidelines
 
@@ -145,6 +145,12 @@ $>make
 |🤩|`CPP00`         | 🇺🇸 | 📄 |[char* vs std:string vs char[]](https://www.geeksforgeeks.org/char-vs-stdstring-vs-char-c/)|  
 |✅|`CPP00`         | 🇧🇷 | 📄 |[CHAR * VS STD: STRING VS CHAR [] EM C++](https://acervolima.com/char-vs-std-string-vs-char-em-c/)|  
 |✅|`CPP01`         | 🇺🇸 | 📄 |[A Comprehensive Look at C++ Reference](https://www.simplilearn.com/tutorials/cpp-tutorial/cpp-reference)|  
+|⭐|`CPP02`         | 🇺🇸 | 📄 |[Fixed Point and Floating Point Number Representations](https://www.tutorialspoint.com/fixed-point-and-floating-point-number-representations)|  
+|⭐|`CPP02`         | 🇺🇸 | 📄 |[Floating point number representation](https://www.cprogramming.com/tutorial/floating_point/understanding_floating_point_representation.html)|  
+|🤩|`CPP02`         | 🇺🇸 | 📄 |[Introduction to Fixed Point Number Representation](https://inst.eecs.berkeley.edu/~cs61c/sp06/handout/fixedpt.html)|  
+|🤩|`CPP02`-`CPP04` | 🇺🇸 | 📄 |[Operator Overloading in C++](https://www.geeksforgeeks.org/operator-overloading-cpp/)|  
+|⭐|`CPP02`-`CPP04` | 🇺🇸 | 📄 |[C++ Overloading (Operator and Function)](https://www.tutorialspoint.com/cplusplus/cpp_overloading.htm)|  
+|🤩|`CPP02`-`CPP04` | 🇺🇸 | 📄 |[Types of Operator Overloading in C++](https://www.geeksforgeeks.org/types-of-operator-overloading-in-cpp/?ref=lbp)|  
 
 
 > ✅ OK | ⭐ Good | ⭐⭐ VeryGood | 🤩 Amazing | 🔖 Bookmarked2Read  
