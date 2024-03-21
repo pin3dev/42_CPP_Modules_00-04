@@ -15,7 +15,7 @@ The `cpp_modules_00-04` projects revolves around mastering advanced C++ concepts
 - Simple and multiple inheritance
 - Polymorphism
 - Interfaces
-  
+
 ## Guidelines
 
 ### Compilation:
@@ -30,7 +30,7 @@ The `cpp_modules_00-04` projects revolves around mastering advanced C++ concepts
 - Functions: `*printf()`, `*alloc()`, `free()`
 - External libraries like `C++11`, `Boost`
 - Using `namespace <ns_name>` and `friend` keywords.
-- `STL`, meaning no Containers (`vector/list/map/and` so forth) and no Algorithms (anything that requires to include the `<algorithm>` header).
+- Until you reach the Module 08: `STL`, meaning no Containers (`vector` `list` `map` and so forth) and no Algorithms (anything that requires to include the `<algorithm>` header).
 - `Memory leaks` when using `new`.
 - Function `implementations in header` files (except for function templates).
 
@@ -40,12 +40,12 @@ The `cpp_modules_00-04` projects revolves around mastering advanced C++ concepts
 - `Additional files` allowed if necessary.
 
 ### Rule:
-Follow the `Orthodox Canonical Form` for classes (`Modules 02-09`), which must implement four essential member functions:
+Follow the `Orthodox Canonical Form` for classes `Modules 02-09`, which must implement four essential member functions:
 - Default constructor
 - Copy constructor
 - Copy assignment operator
 - Destructor
-- Split class code into two files: Header file (`.hpp/.h`) for class definition, and Source file (`.cpp`) for implementation
+- Split class code into two files: Header file `.hpp/.h` for class definition, and Source file `.cpp` for implementation
 
 ## Features
 
