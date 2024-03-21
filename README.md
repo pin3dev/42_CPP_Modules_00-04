@@ -137,11 +137,17 @@ $>make
 ```
 
 ## Links2Study
-|Modules|Lang & Type| Links and Subjects |
-|----------------|:----:|--------------------|
-|`CPP05` `CPP09` | 🇧🇷  📄 | [SOLID Conceitos](https://www.macoratti.net/11/05/pa_solid.htm)|  
-|`CPP05` `CPP09` | 🇧🇷  📄 |[OOP - Herança x Composição](https://www.macoratti.net/11/05/oop_cph1.htm)|  
-|`CPP05` `CPP09` | 🇺🇸  📄 |[Composition vs Inheritance](https://www.digitalocean.com/community/tutorials/composition-vs-inheritance)|  
-|`CPP05` `CPP09` | 🇺🇸  📄 |[Composition in OOPS](https://www.educba.com/composition-in-oops/)|  
-|`CPP06`         | 🇺🇸  📄 |[Casting Operators in C++](https://www.geeksforgeeks.org/casting-operators-in-cpp/)|  
-|`CPP06` `CPP09` | 🇺🇸  📄 |[Regex](https://www3.ntu.edu.sg/home/ehchua/programming/howto/Regexe.html)|  
+
+| Grade |Modules|Lang | Type| Links and Subjects |
+|:---------:|-------|:---:|:---:|--------------------|
+|🤩|`CPP00`-`CPP04` | 🇺🇸 | 📄📚|[Standard Library Headers](https://en.cppreference.com/w/cpp/header)|  
+|⭐|`CPP00`         | 🇺🇸 | 💭 | [char* vs std:string](https://stackoverflow.com/questions/15738095/what-is-the-exact-technical-difference-between-const-char-and-const-string)|  
+|🤩|`CPP00`         | 🇺🇸 | 📄 |[char* vs std:string vs char[]](https://www.geeksforgeeks.org/char-vs-stdstring-vs-char-c/)|  
+|🤩|`CPP00`         | 🇧🇷 | 📄 |[CHAR * VS STD: STRING VS CHAR [] EM C++](https://acervolima.com/char-vs-std-string-vs-char-em-c/)|  
+|✅|`CPP01`         | 🇺🇸 | 📄 |[A Comprehensive Look at C++ Reference](https://www.simplilearn.com/tutorials/cpp-tutorial/cpp-reference)|  
+
+
+> ✅ OK | ⭐ Good | ⭐⭐ VeryGood | 🤩 Amazing | 🔖 Bookmarked2Read  
+> 📄 Blog | 💭 Chat | 📹 Video | 📚 Book
+
+
