@@ -143,7 +143,7 @@ $>make
 |🤩|`CPP00`-`CPP04` | 🇺🇸 | 📄📚|[Standard Library Headers](https://en.cppreference.com/w/cpp/header)|  
 |⭐|`CPP00`         | 🇺🇸 | 💭 | [char* vs std:string](https://stackoverflow.com/questions/15738095/what-is-the-exact-technical-difference-between-const-char-and-const-string)|  
 |🤩|`CPP00`         | 🇺🇸 | 📄 |[char* vs std:string vs char[]](https://www.geeksforgeeks.org/char-vs-stdstring-vs-char-c/)|  
-|🤩|`CPP00`         | 🇧🇷 | 📄 |[CHAR * VS STD: STRING VS CHAR [] EM C++](https://acervolima.com/char-vs-std-string-vs-char-em-c/)|  
+|✅|`CPP00`         | 🇧🇷 | 📄 |[CHAR * VS STD: STRING VS CHAR [] EM C++](https://acervolima.com/char-vs-std-string-vs-char-em-c/)|  
 |✅|`CPP01`         | 🇺🇸 | 📄 |[A Comprehensive Look at C++ Reference](https://www.simplilearn.com/tutorials/cpp-tutorial/cpp-reference)|  
 
 
