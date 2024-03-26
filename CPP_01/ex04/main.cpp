@@ -41,6 +41,13 @@ int main(int ac, char **av)
 			f_in.close();
 			return (1);
 		}
+		if (_old.empty())
+		{
+			std::cerr 
+			<< RED "[Error]:Empty arg1" RESET
+			<<std::endl;
+			return(1);
+		}
 		Replacer cur(av[2], av[3]);
 		cur.setter_word(f_in, f_out);
 		return (0);
