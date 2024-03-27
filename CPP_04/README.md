@@ -1,77 +1,115 @@
-# CPP-Module_04 `100/100`
+# CPP04-Module `100/100`
 
 ## Table of Contents
 - [Project Overview](#overview)
-- [Modules Guidelines](#guidelines)
 - [Mandatory and Bonus Features](#features)
-- [Execution](#execution)
-- [To Study](#Links2Study)
-
+- [Project Compilation and Execution](#compilation-and-execution)
+- [Tests -  Usage Examples](#usage-examples)
 
 ## Overview
-The `cpp_modules_00-04` projects revolves around mastering advanced C++ concepts such as:
-- Abstraction
-- Encapsulation
-- Simple and multiple inheritance
-- Polymorphism
-- Interfaces
-- Fixed Point and Floating Point Number Representations
-- Overload Operators
-
-## Guidelines
-
-### Compilation:
-
-- Compile your code using `c++` with flags `-Wall` `-Wextra` `-Werror` `-std=c++98`
-- Exercise directories: `ex00`, `ex01`, ..., `exn`
-- Separate `Makefile` within each exercise directory.
-- Use `UpperCamelCase` for class names.
-
-### Forbidden:
-
-- Functions: `*printf()`, `*alloc()`, `free()`
-- External libraries like `C++11`, `Boost`
-- Using `namespace <ns_name>` and `friend` keywords.
-- Until you reach the Module 08: `STL`, meaning no Containers (`vector` `list` `map` and so forth) and no Algorithms (anything that requires to include the `<algorithm>` header).
-- `Memory leaks` when using `new`.
-- Function `implementations in header` files (except for function templates).
-
-### Allowed:
-
-- Use `standard library` extensively.
-- `Additional files` allowed if necessary.
-
-### Rule:
-Follow the `Orthodox Canonical Form` for classes `Modules 02-09`, which must implement four essential member functions:
-- Default constructor
-- Copy constructor
-- Copy assignment operator
-- Destructor
-- Split class code into two files: Header file `.hpp/.h` for class definition, and Source file `.cpp` for implementation
+The `cpp_module_04` project revolves around mastering advanced C++ concepts such as polymorphism and interfaces, through a series of exercises:
 
 ## Features
 
-### Module 04: Polymorphism and Interfaces
+### Exercise 00: Polymorphism  
+* Implementing `polymorphism` through base and derived classes.  
+* Creating classes like Animal, Dog, and Cat with specific attributes and behaviors.  
+* Ensuring correct behavior of `polymorphic functions`.  
+### Exercise 01: I don’t want to set the world on fire  
+* Managing dynamic `memory allocation` and `deallocation` within class constructors and destructors.  
+* Implementing `deep copies` to avoid shallow copying.  
+* Testing memory management and ensuring `memory leak-free code`.  
+### Exercise 02: Abstract class  
+* Understanding and implementing `abstract classes`.  
+* Preventing instantiation of base classes.  
+* Ensuring functionality remains intact while preventing direct instantiation.  
+### Exercise 03: Interface & recap  
+* Implementing `interfaces` using `abstract classes`.  
+* Utilizing interfaces for `concrete classes` like Ice and Cure.  
+* Testing interfaces through character and materia interactions.  
 
-- Demonstration of polymorphism in C++.
-- Use of virtual and pure virtual methods.
-- Practical demonstration of polymorphism in C++.
-- Demonstration of dynamic memory allocation and deallocation.
-- Deep copy guarantee for compound objects.
-- Implementing abstract classes in C++.
-- Ensuring that the base class is not directly instantiable.
-- Demonstration of how to create an abstract class in C++.
-- Implementing interfaces in C++ using pure abstract classes.
-- Demonstration of how to use interfaces to define a contract between classes.
-- Use of inheritance, polymorphism and composition in a practical scenario.
-
-## Execution
+## Compilation and Execution
 Each exercise's compilation is done separately by running the Makefile within the exercise's folder.  
 ```bash
 #in the ex00, ex01, ex02 or ex03 directory
 $>make
+
+#Execution ex00:
+./Animal
+
+#Execution ex01:
+./AnimalsBrains
+
+#Execution ex02:
+./AbstractAnimal
+
+#Execution ex03:
+./Interfaces
 ```
 
-## Links2Study
+## Usage Examples
+to be implemented...  
+<!--
+```c
+//Changes to be applied to the main function of the exercises 
 
-clique [aqui](../README.md#Links2Study)
+//Execution ex00:
+    //to test Default Constructors
+int main()
+{
+  Animal;
+  Dog;
+  Cat;
+  WrongAnimal;
+  WrongCat;
+
+  (void)Animal;
+  (void)Dog;
+  (void)Cat;
+  (void)WrongAnimal;
+  (void)WrongCat;
+
+}
+    //to test Polymorphism
+int main()
+{
+  Animal *anyAnimal;
+  anyAnimal = new Dog();
+  std::cout << anyAnimal ->getType() << " ";
+  anyAnimal ->makeSound();
+
+  Animal *anotherAnimal;
+  anyAnimal = new Cat();
+  std::cout << anotherAnimal ->getType() << " ";
+  anotherAnimal ->makeSound();
+
+  delete anyAnimal;
+  delete anotherAnimal;
+}
+
+    //to test wrong classes
+int main()
+{
+  Animal *anyAnimal;
+  anyAnimal = new Dog;
+  std::cout << anyAnimal ->getType() << " ";
+  anyAnimal ->makeSound();
+
+  Animal *anotherAnimal;
+  anyAnimal = new Cat;
+  std::cout << anotherAnimal ->getType() << " ";
+  anotherAnimal ->makeSound();
+
+  delete anyAnimal;
+  delete anotherAnimal;
+}
+
+//Execution ex01:
+
+
+//Execution ex02:
+
+//Execution ex03:
+
+```
+--->
