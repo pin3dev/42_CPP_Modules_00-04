@@ -1,4 +1,4 @@
-# CPP-Modules_00-04 `100/100`
+# CPP-Module_04 `100/100`
 
 ## Table of Contents
 - [Project Overview](#overview)
@@ -74,6 +74,6 @@ $>make
 
 ## Links2Study
 
-clique [aqui](../READEME.md#Links2Study)
+clique [aqui](../README.md#Links2Study)
 
 
