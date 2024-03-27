@@ -51,83 +51,15 @@ Follow the `Orthodox Canonical Form` for classes `Modules 02-09`, which must imp
 
 ## Features
 
-### Module 00: String class, Abstraction and Encapsulation
-
-- Using command line arguments in a C++ program.
-- String processing and transformations in C++.
-- Basic manipulation of standard input and output.
-- Developing classes in C++.
-- Encapsulation and visibility concepts (public, private).
-- Using arrays to store data.
-- Implementing getters and setters methods.
-- Handling user input and data validation.
-- Understanding the process of compiling and testing C++ code.
-- Knowledge of the order in which constuctors and destructors are called in C++.
+### [Module 00](https://github.com/pin3dev/42_CPP_Modules_0-04/tree/7582a5e60d416c3074cae9e2554af843edaf5734/CPP_00): String class, Abstraction, Encapsulation
   
-### Module 01: Memory Allocation, References vs Pointers and Switch  
-
-- Using private methods and attributes in a class.
-- Dynamic memory allocation using pointers.
-- Difference between heap and stack memory allocation.
-- Memory handling and preventing memory leaks.
-- Dynamic memory allocation for arrays of objects in C++.
-- Implementing functions that return pointers to object arrays.
-- Proper release of dynamically allocated memory.
-- Unit tests to ensure that the implemented function works correctly.
-- Understanding and using pointers and references in C++.
-- Accessing the memory addresses of variables and objects.
-- Difference between pointers and references.
-- Practical demonstration of manipulating memory addresses and their associated values.
-- Composing objects into classes.
-- Class constructors and destructors.
-- Demonstration of association between classes and treatment of relationships.
-- Using log levels.
-- Practical demonstration of flow control with the switch statement.
-- Efficient handling of multiple cases with the switch statement.
-- Developing programs to interact with user input and process command line arguments.
-- File manipulation, Reading and writing files in C++.
-- Using strings in search and replace operations.
-- Implementing text replacement algorithms.
-- Approach to polymorphism in C++.
-- Creating methods that call different functions based on parameters.
-- Implementing a message filtering system based on log levels.
+### [Module 01](https://github.com/pin3dev/42_CPP_Modules_0-04/tree/7582a5e60d416c3074cae9e2554af843edaf5734/CPP_01): Memory Allocation, References vs Pointers, Switch cases and Callbacks Functions  
   
-### Module 02: Orthodox Canonical Form, Fixed-point Number Class implementation
+### [Module 02](https://github.com/pin3dev/42_CPP_Modules_0-04/tree/7582a5e60d416c3074cae9e2554af843edaf5734/CPP_02): Orthodox Canonical Form, Fixed-point Number Class implementation, Overload Operators
 
-- Implementing a class in C++ following the orthodox canonical form.
-- Overloading operators in C++.
-- Converting between data types (integer and floating point) in C++.
-- Using static constants in a class.
-- Constructing constructors and methods in a C++ class.
-- Practical demonstration of ad-hoc polymorphism in C++.
-- Overloading comparison and arithmetic operators in C++.
-- Implementing increment and decrement operators in C++.
-- Comprehensive tests to ensure that the class works correctly.
-
-
-### Module 03: Single and Multiple Inheritance, Diamond problem
-- Implementing a base class in C++.
-- Practical demonstration of encapsulation in C++.
-- Inheritance in C++.
-- Constructors and destructors in derived classes.
-- Practical demonstration of inheritance and polymorphism in C++.
-- Multiple inheritance in C++.
-- Constructors and destructors in derived classes with multiple inheritance.
-- Practical demonstration of multiple inheritance and polymorphism in C++.
+### [Module 03](https://github.com/pin3dev/42_CPP_Modules_0-04/tree/7582a5e60d416c3074cae9e2554af843edaf5734/CPP_03): Abstract Classes, Single Inheritance, Multiple Inheritance, Diamond Inheritance
   
-### Module 04: Polymorphism and Interfaces
-
-- Demonstration of polymorphism in C++.
-- Use of virtual and pure virtual methods.
-- Practical demonstration of polymorphism in C++.
-- Demonstration of dynamic memory allocation and deallocation.
-- Deep copy guarantee for compound objects.
-- Implementing abstract classes in C++.
-- Ensuring that the base class is not directly instantiable.
-- Demonstration of how to create an abstract class in C++.
-- Implementing interfaces in C++ using pure abstract classes.
-- Demonstration of how to use interfaces to define a contract between classes.
-- Use of inheritance, polymorphism and composition in a practical scenario.
+### [Module 04](https://github.com/pin3dev/42_CPP_Modules_0-04/tree/7582a5e60d416c3074cae9e2554af843edaf5734/CPP_04): Polymorphism and Interfaces
 
 ## Execution
 Each exercise's compilation is done separately by running the Makefile within the exercise's folder.  
