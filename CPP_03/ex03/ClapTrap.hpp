@@ -42,9 +42,9 @@ class ClapTrap
 	public :
 		//Canonical form
 		ClapTrap();
-		~ClapTrap();
 		ClapTrap(const ClapTrap &src);
 		ClapTrap &operator=(const ClapTrap &src);
+		virtual ~ClapTrap();
 		
 		//Adicional member functions
 		ClapTrap(std::string name);
