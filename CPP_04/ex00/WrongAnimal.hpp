@@ -35,7 +35,7 @@ class WrongAnimal
 		WrongAnimal(std::string type); //Adicitonal Member Function
 		WrongAnimal(const WrongAnimal &src);
 		WrongAnimal &operator=(const WrongAnimal &src);
-		~WrongAnimal();
+		virtual ~WrongAnimal();
         //Getter
 		std::string		getType() const;
 		//Adicitonal Member Function
