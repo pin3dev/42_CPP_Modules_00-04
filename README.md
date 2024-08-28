@@ -51,15 +51,15 @@ Follow the `Orthodox Canonical Form` for classes `Modules 02-09`, which must imp
 
 ## Features
 
-### [Module 00](https://github.com/pin3dev/42_CPP_Modules_0-04/tree/7582a5e60d416c3074cae9e2554af843edaf5734/CPP_00): String class, Abstraction, Encapsulation
+### [Module 00](https://github.com/pin3dev/42_CPP_Modules_00-04/tree/main/CPP_00): String class, Abstraction, Encapsulation
   
-### [Module 01](https://github.com/pin3dev/42_CPP_Modules_0-04/tree/7582a5e60d416c3074cae9e2554af843edaf5734/CPP_01): Memory Allocation, References vs Pointers, Switch cases and Callbacks Functions  
+### [Module 01](https://github.com/pin3dev/42_CPP_Modules_00-04/tree/main/CPP_01): Memory Allocation, References vs Pointers, Switch cases and Callbacks Functions  
   
-### [Module 02](https://github.com/pin3dev/42_CPP_Modules_0-04/tree/7582a5e60d416c3074cae9e2554af843edaf5734/CPP_02): Orthodox Canonical Form, Fixed-point Number Class implementation, Overload Operators
+### [Module 02](https://github.com/pin3dev/42_CPP_Modules_00-04/tree/main/CPP_02): Orthodox Canonical Form, Fixed-point Number Class implementation, Overload Operators
 
-### [Module 03](https://github.com/pin3dev/42_CPP_Modules_0-04/tree/7582a5e60d416c3074cae9e2554af843edaf5734/CPP_03): Abstract Classes, Single Inheritance, Multiple Inheritance, Diamond Inheritance
+### [Module 03](https://github.com/pin3dev/42_CPP_Modules_00-04/tree/main/CPP_03): Abstract Classes, Single Inheritance, Multiple Inheritance, Diamond Inheritance
   
-### [Module 04](https://github.com/pin3dev/42_CPP_Modules_0-04/tree/7582a5e60d416c3074cae9e2554af843edaf5734/CPP_04): Polymorphism and Interfaces
+### [Module 04](https://github.com/pin3dev/42_CPP_Modules_00-04/tree/main/CPP_04): Polymorphism and Interfaces
 
 ## Execution
 Each exercise's compilation is done separately by running the Makefile within the exercise's folder.  
