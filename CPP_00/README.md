@@ -1,4 +1,4 @@
-# CPP-Modules_00 `100/100`
+# CPP-Module_00 `100/100`
 
 ## Features
 
