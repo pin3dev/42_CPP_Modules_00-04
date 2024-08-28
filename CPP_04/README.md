@@ -32,7 +32,7 @@ The `cpp_module_04` project revolves around mastering advanced C++ concepts such
 Each exercise's compilation is done separately by running the Makefile within the exercise's folder.  
 ```bash
 #in the ex00, ex01, ex02 or ex03 directory
-$>make
+make
 
 #Execution ex00:
 ./Animal
