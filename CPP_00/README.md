@@ -30,7 +30,7 @@ The `cpp_module_00` project is designed to introduce fundamental C++ concepts su
 Each exercise should be compiled separately by running the Makefile within the corresponding exercise folder.
 ```bash
 # Within the ex00, ex01, or ex02 directories
-$>make
+make
 
 # Execution of ex00:
 ./megaphone
