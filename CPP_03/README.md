@@ -35,7 +35,7 @@ The `cpp_module_03` project revolves around mastering basic OOP concepts, such a
 Each exercise should be compiled separately by running the Makefile within the corresponding exercise folder.
 ```bash
 # Within the ex00, ex01, ex02, or ex03 directories
-$>make
+make
 
 # Execution of ex00:
 ./clapTrap
