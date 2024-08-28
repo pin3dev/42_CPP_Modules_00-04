@@ -4,7 +4,7 @@
 - [Project Overview](#overview)
 - [Mandatory and Bonus Features](#features)
 - [Project Compilation and Execution](#compilation-and-execution)
-- [Tests -  Usage Examples](#usage-examples)
+- [Tests](#Tests)
 
 ## Overview
 The `cpp_module_04` project revolves around mastering advanced C++ concepts such as polymorphism and interfaces, through a series of exercises:
@@ -47,7 +47,7 @@ $>make
 ./Interfaces
 ```
 
-## Usage Examples
+## Tests
 to be implemented...  
 <!--
 ```c
